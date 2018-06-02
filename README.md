@@ -21,6 +21,10 @@ HTML, Form Login, Dasboard, CRUD Digabung sekali gus. Dan FrameWork CI.
 
 ![sas](https://github.com/JakaOktorio/Tugas-II-Setelah-UTS/blob/master/HTML_Login_Dasboard_CRUD/Screenshot%20hasil/Halaman%20Tambah%20Admin.jpg)
 
+# Halaman Kunjungi Situs
+
+![sas](https://github.com/JakaOktorio/Tugas-II-Setelah-UTS/blob/master/HTML_Login_Dasboard_CRUD/Screenshot%20hasil/Screenshot_halaman%20Kunjungi%20situs.jpg)
+
 # Berasil Log out
 
 ![sas](https://github.com/JakaOktorio/Tugas-II-Setelah-UTS/blob/master/HTML_Login_Dasboard_CRUD/Screenshot%20hasil/Screenshot_berhasil%20log%20out.jpg)
